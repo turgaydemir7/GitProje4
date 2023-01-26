@@ -5,7 +5,7 @@ public class Student {
 
         System.out.println("Merhaba Turgay");
 
-        System.out.println("Merhaba Java");
+
 
         System.out.println("tekrar merhaba");
     }
