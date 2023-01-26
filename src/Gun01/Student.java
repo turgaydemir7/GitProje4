@@ -9,5 +9,6 @@ public class Student {
         System.out.println("merhaba 3");
 
         System.out.println("merhaba 4");
+        System.out.println("değişiklik vaar");
     }
 }
